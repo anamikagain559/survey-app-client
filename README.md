@@ -84,6 +84,32 @@ admin credentials
    - Viewing survey feedback in tabular form.
    - Responsive design for mobile, tablet, and desktop views.
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/anamikagain559/survey-app-client.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
 
 
 
